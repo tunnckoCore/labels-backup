@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Problem: Bug",
+    "color": "#EE3F46",
+    "description": "Inconsistencies or issues which will cause an issue or problem for users or implementors."
+  },
+  {
+    "name": "Problem: Security",
+    "color": "#d73a4a",
+    "description": "This should be dealt with ASAP. It is security breach or not fixing this issue would be a serious error."
+  },
+  {
+    "name": "Problem: Production",
+    "color": "#FF7A2F",
+    "description": "High priority, especially if it's present in production."
+  },
+  {
+    "name": "Platform: CLI",
+    "color": "#E5F0FF",
+    "description": "Affect user experience in a terminal."
+  },
+  {
+    "name": "Platform: API",
+    "color": "#D7FFFE",
+    "description": "Related to the API usage and experience."
+  },
+  {
+    "name": "Platform: Front-end",
+    "color": "#B1D1FF",
+    "description": "Problem in the front-end source code - user's experience, visual bugs and etc."
+  },
+  {
+    "name": "Platform: Back-end",
+    "color": "#AFCFEA",
+    "description": "Problem in servers, databases, server configurations and etc."
+  },
+  {
+    "name": "Feedback: Question",
+    "color": "#C23A94",
+    "description": "A query or seeking clarification. Probably doesn't need the attention of everyone, just a few to help bring clarification or explain intent."
+  },
+  {
+    "name": "Feedback: Discussion",
+    "color": "#C23A94",
+    "description": "Requires further conversation to figure out the action steps.  Doesn't need the attention of everyone."
+  },
+  {
+    "name": "Feedback: RFC",
+    "color": "#C23A94",
+    "description": "Most feature ideas start here. As many people as possible joining the discussion is encouraged."
+  },
+  {
+    "name": "invalid",
+    "color": "#2F3640",
+    "description": "The issue is either fixed, addressed better by other issues, or just out of product scope."
+  },
+  {
+    "name": "duplicate",
+    "color": "#808285",
+    "description": "This issue or pull request topic/problem already exists."
+  },
+  {
+    "name": "wontfix",
+    "color": "#BCBEC0",
+    "description": "No action needed or possible."
+  },
+  {
+    "name": "Pending: In Progress",
+    "color": "#FFC11E",
+    "description": "This issue is being worked on and has someone assigned."
+  },
+  {
+    "name": "Pending: Blocked",
+    "color": "#FFF851",
+    "description": " Taking action, but need a few things to happen first. There is another issue that needs to be resolved first, or a specific person is required to comment/reply to progress. There may also be some external blocker."
+  },
+  {
+    "name": "Pending: Help Wanted",
+    "color": "#D2AA1B",
+    "description": "Extra attention is needed by someone other than the team. Good first problem to solve by new contributors."
+  },
+  {
+    "name": "dependencies",
+    "color": "#0366d6",
+    "description": "Dependency updates by Dependabot or RenvoateApp"
+  },
+  {
+    "name": "Improvements: Enhancement",
+    "color": "#5199FF",
+    "description": "Iterations on existing features, quality or infrastructure."
+  },
+  {
+    "name": "Improvements: Optimization",
+    "color": "#5EBEFF",
+    "description": "Generally these are updates for speed or improve the quality of results."
+  },
+  {
+    "name": "Improvements: Documentation",
+    "color": "#0351C1",
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "name": "ready",
+    "color": "#41B619",
+    "description": "Ready for merge."
+  }
+]
